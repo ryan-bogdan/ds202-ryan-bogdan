@@ -1,4 +1,4 @@
-# ds202-ryan-bogdan
+# ds2020-ryan-bogdan
 ode to an academic advisor
 
 - a crappy: Iowa State basketball losing 4 of their last 6 games.
